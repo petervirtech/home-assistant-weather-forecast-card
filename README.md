@@ -1,0 +1,1 @@
+# home-assistant-weather-forecast-card
